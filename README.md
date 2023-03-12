@@ -1,11 +1,11 @@
-About hart-protocol
-===================
+About hart-protocol-feedstock
+=============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/hart-protocol-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/yaq-project/hart-protocol
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/hart-protocol-feedstock/blob/main/LICENSE.txt)
 
 Summary: A sans-io python implementation of the Highway Addressable Remote Transducer Protocol.
 
