@@ -1,5 +1,5 @@
 {% set name = "hart-protocol" %}
-{% set version = "2023.3.0" %}
+{% set version = "2023.4.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/hart-protocol-{{ version }}.tar.gz
-  sha256: 6038135ada16966df3179b187e17648f7195a7f13f016a59e012187a3da3debd
+  sha256: 972090f15f6449dba018f02e61c4ea5400b4b2b63de5e1c2e60ddedb8f0209af
 
 build:
   noarch: python
